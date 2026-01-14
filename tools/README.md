@@ -1,5 +1,7 @@
-# Tools for Vibe Coding
+# Tools for Claude Code
 
-This directory contains a collection of tools that can help you with Vibe Coding.
+This directory contains a collection of tools that can help you with Claude Code.
 
-(TODO: Add content here.)
+## Contents
+
+*   [overview.md](overview.md): Comprehensive overview of AI-powered tools for development.

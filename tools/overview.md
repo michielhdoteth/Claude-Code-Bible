@@ -1,4 +1,4 @@
-# Vibe Coding Tools Overview: Your AI-Powered Development Arsenal
+# Claude Code Tools Overview
 
 This section provides a comprehensive overview of the diverse range of tools that can significantly enhance your Vibe Coding workflow. These tools, powered by Artificial Intelligence, are categorized by their primary function, offering a glimpse into the powerful ecosystem available to modern developers.
 
