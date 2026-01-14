@@ -51,7 +51,8 @@ Claude Code is built upon core principles that define its unique approach to sof
 | Category | Description | Path |
 |----------|-------------|------|
 | **Getting Started** | Fundamentals, setup, Hello World | [docs/getting-started.md](docs/getting-started.md) |
-| **CLAUDE.md** | Project configuration templates | [docs/claude-md-guide.md](docs/claude-md-guide.md) |
+| **Feature Reference** | Complete CLI reference, 40+ commands | [docs/feature-reference.md](docs/feature-reference.md) |
+| **CLAUDE.md Templates** | Ready-to-use templates by project type | [docs/claude-md-templates.md](docs/claude-md-templates.md) |
 | **Commands** | Slash commands library | [commands/](commands/) |
 | **Subagents** | Specialized AI agents | [subagents/](subagents/) |
 | **Hooks** | Automation scripts | [hooks/](hooks/) |
@@ -68,6 +69,7 @@ This comprehensive Table of Contents provides a structured overview of the Claud
     *   **Description:** Your essential entry point to understanding Claude Code, setting up your development environment, and running your very first AI-assisted projects.
     *   **Files:**
         *   [`docs/getting-started.md`](docs/getting-started.md): A detailed guide to the fundamentals of Claude Code, environment setup, and a practical "Hello World" example.
+        *   [`docs/feature-reference.md`](docs/feature-reference.md): Complete reference of all Claude Code features - 40+ slash commands, subagents, hooks, MCP, plugins, workflows, and CLI reference.
         *   [`docs/building-blocks.md`](docs/building-blocks.md): Deep dive into Claude Code's six building blocks: Markdown Files, Slash Commands, Agents, Skills, Hooks, and Plugins.
         *   [`docs/workflows.md`](docs/workflows.md): Practical workflows for multi-agent setups, context management, and the eight-step process.
         *   [`docs/advanced-tips.md`](docs/advanced-tips.md): Advanced patterns, anti-patterns, and insights from power users.
