@@ -2,11 +2,11 @@
 
 Essential CLI tools and utilities that enhance AI coding agent capabilities
 
-**73** entries across **13** categories.
+**74** entries across **13** categories.
 
 ## Categories
 
-- **AI Coding CLIs** (11)
+- **AI Coding CLIs** (12)
 - **Code Analysis** (9)
 - **Cloud & DevOps** (7)
 - **Git Utilities** (6)
@@ -20,7 +20,7 @@ Essential CLI tools and utilities that enhance AI coding agent capabilities
 - **Terminal Enhancement** (3)
 - **Agent Memory** (2)
 
-## All 73 tools
+## All 74 tools
 
 | Name               | Category              | Description                                                                                                                                     | Source                                                                                | Badges                                                                                                                                                                                                               |
 | ------------------ | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -97,6 +97,7 @@ Essential CLI tools and utilities that enhance AI coding agent capabilities
 | Inspect AI         | Agent Training & Eval | UK AISI LLM eval framework with 200+ benchmarks, sandboxes, and first-class agent eval for ReAct, Claude Code, Codex CLI, and Gemini CLI.       | [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)         | ![Stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/UKGovernmentBEIS/inspect_ai?style=flat)         |
 | Harbor             | Agent Training & Eval | Terminal-Bench authors' framework for evaluating agents in parallel cloud environments, generating RL rollouts, and running Terminal-Bench 2.0. | [harbor-framework/harbor](https://github.com/harbor-framework/harbor)                 | ![Stars](https://img.shields.io/github/stars/harbor-framework/harbor?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/harbor-framework/harbor?style=flat)                 |
 | SkyRL              | Agent Training & Eval | Full-stack RL library for LLMs (skyrl-train, skyrl-agent, skyrl-gym) with SWE-Bench multi-turn tool-use and Harbor terminal-use training.       | [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL)                               | ![Stars](https://img.shields.io/github/stars/NovaSky-AI/SkyRL?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/NovaSky-AI/SkyRL?style=flat)                               |
+| YYLO               | AI Coding CLIs        | Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.                               | [yylo-dev/yylo](https://github.com/yylo-dev/yylo)                                     | ![Stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/yylo-dev/yylo?style=flat)                                     |
 
 ---
 

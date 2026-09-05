@@ -3,8 +3,8 @@
   "version": "2026.08",
   "description": "Essential CLI tools and utilities that enhance AI coding agent capabilities",
   "license": "MIT",
-  "lastUpdated": "2026-08-29",
-  "totalTools": 73,
+  "lastUpdated": "2026-09-05",
+  "totalTools": 74,
   "categories": [
     {
       "name": "Code Analysis",
@@ -28,7 +28,7 @@
     },
     {
       "name": "AI Coding CLIs",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Agent Memory",
@@ -789,6 +789,16 @@
       "stars": 2179,
       "crossPlatform": true,
       "install": "See https://docs.skyrl.ai/docs"
+    },
+    {
+      "id": "yylo",
+      "name": "YYLO",
+      "category": "AI Coding CLIs",
+      "description": "Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.",
+      "url": "https://github.com/yylo-dev/yylo",
+      "stars": 57,
+      "crossPlatform": true,
+      "install": "npm install -g @yylo/cli"
     }
   ]
 }
