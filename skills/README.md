@@ -2,13 +2,13 @@
 
 Reusable AI agent skills following the SKILL.md standard
 
-**97** entries across **9** categories.
+**98** entries across **9** categories.
 
 ## Categories
 
 - **Development** (33)
 - **Productivity** (17)
-- **Content** (12)
+- **Content** (13)
 - **Design** (11)
 - **DevOps** (8)
 - **Marketing** (6)
@@ -16,7 +16,7 @@ Reusable AI agent skills following the SKILL.md standard
 - **Data** (4)
 - **Security** (2)
 
-## All 97 skills
+## All 98 skills
 
 | Name                                            | Category     | Description                                                                                                                                                                          | Source                                                                                                          | Badges                                                                                                                                                                                                                                         |
 | ----------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -117,6 +117,7 @@ Reusable AI agent skills following the SKILL.md standard
 | video-shotcraft                                 | Content      | Cinematic product-video skill for Claude Code and Codex: 152 shot recipes, 209 motion previews, and a Remotion production template.                                                  | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)                             | ![Stars](https://img.shields.io/github/stars/Vincentwei1021/video-shotcraft?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Vincentwei1021/video-shotcraft?style=flat)                             |
 | book-to-skill                                   | Development  | Turn a technical book, PDF, EPUB, or document folder into a structured Claude Code / Copilot skill with per-chapter files.                                                           | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill)                                       | ![Stars](https://img.shields.io/github/stars/Leutenegger/book-to-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Leutenegger/book-to-skill?style=flat)                                       |
 | J-Space Cognition Suite                         | Development  | Inference-time cognitive-control skill: selective workspace loading, verification, recovery, and an optional loop controller for long-horizon work.                                  | [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6) | ![Stars](https://img.shields.io/github/stars/Tiger3807861189/J-Space-Cognition-Suite-V3.6?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Tiger3807861189/J-Space-Cognition-Suite-V3.6?style=flat) |
+| Angles Video                                    | Content      | Turn a software repository into three selling angles and a launch-ready Angles video from Codex or Claude Code.                                                                      | [anglesvideo/angles-video-skill](https://github.com/anglesvideo/angles-video-skill)                             | ![Stars](https://img.shields.io/github/stars/anglesvideo/angles-video-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/anglesvideo/angles-video-skill?style=flat)                             |
 
 ---
 
