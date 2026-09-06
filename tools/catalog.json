@@ -3,8 +3,8 @@
   "version": "2026.08",
   "description": "Essential CLI tools and utilities that enhance AI coding agent capabilities",
   "license": "MIT",
-  "lastUpdated": "2026-09-05",
-  "totalTools": 74,
+  "lastUpdated": "2026-09-06",
+  "totalTools": 75,
   "categories": [
     {
       "name": "Code Analysis",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Agent Memory",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Formatting & Linting",
@@ -799,6 +799,16 @@
       "stars": 57,
       "crossPlatform": true,
       "install": "npm install -g @yylo/cli"
+    },
+    {
+      "id": "clineflow",
+      "name": "ClineFlow",
+      "category": "Agent Memory",
+      "description": "Git-native project memory for coding agents, preserving decisions, verification, and handoffs across sessions.",
+      "url": "https://github.com/hassanvfx/clineflow",
+      "stars": 1,
+      "crossPlatform": true,
+      "install": "curl -fsSL https://raw.githubusercontent.com/hassanvfx/clineflow/main/template/.clineflow/bin/install | bash"
     }
   ]
 }
