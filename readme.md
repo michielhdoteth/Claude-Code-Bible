@@ -22,7 +22,7 @@
 
 ---
 
-**640** installable components across **8** categories. Every entry is sourced from real projects with provenance and install commands. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
+**641** installable components across **8** categories. Every entry is sourced from real projects with provenance and install commands. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
 
 ## Contents
 
@@ -147,8 +147,8 @@
 - API Testing: 5
 - Agent Training & Eval: 5
 - Monitoring: 4
+- Agent Memory: 3
 - Terminal Enhancement: 3
-- Agent Memory: 2
 
 ## Quick Stats
 
@@ -161,7 +161,7 @@
 | **Hooks**       | 25    | Production-ready Claude Code hooks for security, automation, and quality    | [hooks/](hooks/)         |
 | **Plugins**     | 54    | Extensions for Claude Code, OpenCode, Cursor, and 6 more platforms          | [plugins/](plugins/)     |
 | **Prompts**     | 103   | Curated prompt collections and marketplaces for AI coding agents            | [prompts/](prompts/)     |
-| **Tools**       | 74    | Essential CLI tools and utilities that enhance AI coding agent capabilities | [tools/](tools/)         |
+| **Tools**       | 75    | Essential CLI tools and utilities that enhance AI coding agent capabilities | [tools/](tools/)         |
 
 All data comes from `catalog.json` files in each folder. These catalogs are the single source of truth for programmatic discovery. Contributions welcome -- see Contributing below.
 
