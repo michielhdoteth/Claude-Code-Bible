@@ -1,6 +1,6 @@
 # Awesome AI Agent Tools
 
-> The most comprehensive open-source library for AI agent skills, MCP servers, and agent workflows. 641 installable components across 8 categories -- skills, MCPs, loops, subagents, hooks, plugins, prompts, and tools -- curated from 100+ repositories. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
+> The most comprehensive open-source library for AI agent skills, MCP servers, and agent workflows. 642 installable components across 8 categories -- skills, MCPs, loops, subagents, hooks, plugins, prompts, and tools -- curated from 100+ repositories. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
 
 ## Overview
 
@@ -19,7 +19,7 @@ Built for interoperability, this collection works with Claude Code, OpenCode, Co
 - **25 Hooks**: Event-driven extensions for Claude Code across 8 categories
 - **54 Plugins**: Extensions for Claude Code, OpenCode, Cursor, Copilot, Windsurf, Aider, and JetBrains across 9 categories
 - **103 Prompts**: Curated prompt templates and strategies across 17 categories
-- **75 CLI Tools**: Command-line utilities and automation across 13 categories
+- **76 CLI Tools**: Command-line utilities and automation across 13 categories
 - **JSON Catalogs**: Machine-readable catalogs for programmatic discovery
 
 ## Quick Start
@@ -51,7 +51,7 @@ https://awesome-ai-agent-tools.vercel.app
 - [Hooks](hooks/) - 25 event-driven extensions
 - [Plugins](plugins/) - 54 plugins across 9 platforms
 - [Prompts](prompts/) - 103 curated prompt templates
-- [CLI Tools](tools/) - 75 command-line utilities
+- [CLI Tools](tools/) - 76 command-line utilities
 
 ## Related Resources
 
@@ -64,4 +64,4 @@ awesome, ai-agent-tools, ai-agents, skills, mcp-servers, model-context-protocol,
 
 ## Updated
 
-2026-09-07
+2026-09-09
