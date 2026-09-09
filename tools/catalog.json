@@ -3,8 +3,8 @@
   "version": "2026.08",
   "description": "Essential CLI tools and utilities that enhance AI coding agent capabilities",
   "license": "MIT",
-  "lastUpdated": "2026-09-06",
-  "totalTools": 75,
+  "lastUpdated": "2026-09-09",
+  "totalTools": 76,
   "categories": [
     {
       "name": "Code Analysis",
@@ -56,7 +56,7 @@
     },
     {
       "name": "Agent Training & Eval",
-      "count": 5
+      "count": 6
     }
   ],
   "tools": [
@@ -809,6 +809,16 @@
       "stars": 1,
       "crossPlatform": true,
       "install": "curl -fsSL https://raw.githubusercontent.com/hassanvfx/clineflow/main/template/.clineflow/bin/install | bash"
+    },
+    {
+      "id": "yylo-benchmark",
+      "name": "YYLO Benchmark",
+      "category": "Agent Training & Eval",
+      "description": "Isolated evaluation for task prompts and workflow YAML: private fresh-repository workspaces, deterministic or LLM-judge profiles, hash-linked receipts and manifests.",
+      "url": "https://github.com/yylo-dev/yylo-benchmark",
+      "stars": 1,
+      "crossPlatform": true,
+      "install": "npm install -g @yylo/benchmark"
     }
   ]
 }
