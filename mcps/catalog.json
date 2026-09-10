@@ -4,7 +4,7 @@
   "description": "Curated Model Context Protocol servers for AI-assisted development",
   "license": "MIT",
   "lastUpdated": "2026-08-24",
-  "totalServers": 137,
+  "totalServers": 138,
   "categories": [
     {
       "name": "Official Reference",
@@ -40,7 +40,7 @@
     },
     {
       "name": "AI & Machine Learning",
-      "count": 14
+      "count": 15
     },
     {
       "name": "Agent Orchestration",
@@ -80,7 +80,7 @@
     },
     {
       "name": "Blockchain",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Mobile",
@@ -2529,6 +2529,24 @@
         "sessions",
         "audit",
         "self-hosted"
+      ]
+    },
+    {
+      "id": "mnemoverse",
+      "name": "Mnemoverse Memory",
+      "category": "AI & Machine Learning",
+      "github": "https://github.com/mnemoverse/mcp-memory-server",
+      "stars": 21,
+      "description": "Hosted persistent memory over MCP: recall is re-ranked by feedback on whether a memory helped, unused memories decay by recency, one key shared across Claude Code, Cursor, VS Code and ChatGPT",
+      "install": "npx -y @mnemoverse/mcp-memory-server",
+      "license": "MIT",
+      "verified": false,
+      "tags": [
+        "memory",
+        "persistent-memory",
+        "cross-tool",
+        "mcp-server",
+        "hosted"
       ]
     }
   ]

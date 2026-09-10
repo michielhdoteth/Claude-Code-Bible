@@ -4,11 +4,11 @@
   "description": "Plugins, extensions, and rules for AI coding agents (Claude Code, OpenCode, Cursor, Copilot, Windsurf, Aider, JetBrains)",
   "license": "MIT",
   "lastUpdated": "2026-08-20",
-  "totalPlugins": 54,
+  "totalPlugins": 55,
   "categories": [
     {
       "name": "Claude Code",
-      "count": 9
+      "count": 10
     },
     {
       "name": "OpenCode",
@@ -691,6 +691,17 @@
       "websiteUrl": "https://docs.flutter.dev/ai/get-started",
       "installCommand": "claude plugin marketplace add flutter/agent-plugins; claude plugin install dart-flutter@dart-flutter",
       "license": "BSD-3-Clause"
+    },
+    {
+      "id": "mnemoverse-claude-plugin",
+      "name": "Mnemoverse",
+      "category": "Claude Code",
+      "platform": "Claude Code",
+      "stars": 0,
+      "description": "Connects Claude Code to the hosted Mnemoverse memory server over remote MCP with a one-time OAuth sign-in, and bundles the CC0 agent-memory-discipline skill",
+      "websiteUrl": "https://github.com/mnemoverse/claude-plugin",
+      "installCommand": "claude plugin marketplace add mnemoverse/claude-plugin && claude plugin install mnemoverse@mnemoverse",
+      "license": "MIT"
     }
   ]
 }
