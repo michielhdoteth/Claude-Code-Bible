@@ -4,11 +4,11 @@
   "description": "Reusable AI agent skills following the SKILL.md standard",
   "license": "MIT",
   "lastUpdated": "2026-08-20",
-  "totalSkills": 98,
+  "totalSkills": 99,
   "categories": [
     {
       "name": "Development",
-      "count": 33
+      "count": 34
     },
     {
       "name": "Productivity",
@@ -1890,6 +1890,23 @@
         "marketing",
         "claude-code",
         "codex"
+      ]
+    },
+    {
+      "id": "agent-memory-discipline",
+      "name": "Agent Memory Discipline",
+      "source": "mnemoverse/agent-memory-discipline",
+      "category": "Development",
+      "description": "Standing rules for when an agent recalls from long-term memory before acting and when it saves afterwards. Backend-neutral.",
+      "install": "claude plugin marketplace add mnemoverse/agent-memory-discipline && claude plugin install agent-memory-discipline@agent-memory-discipline",
+      "license": "CC0-1.0",
+      "verified": false,
+      "local": false,
+      "tags": [
+        "memory",
+        "context",
+        "discipline",
+        "backend-neutral"
       ]
     }
   ]
